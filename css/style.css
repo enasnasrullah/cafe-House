@@ -1,0 +1,135 @@
+
+ body
+{
+font-family: 'Open Sans', sans-serif;
+background-color: #e4e4e4;
+}
+.navbar
+{
+    background-color: black;
+    color: white;
+}
+.logo
+{
+    color: #c79c60;
+    font-family: 'Damion', cursive;
+    font-size: 32px;
+    display: inline-block;
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: none;
+   
+}
+.cl
+{
+    color: #c79c60;
+}
+.cl2
+
+{
+    color: white;
+    transition: 1s;
+}
+.cl2:hover
+{
+    color: #c79c60;
+}
+.nav-link
+{
+ 
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+font-size: 14px;
+    
+}
+
+.header
+{
+    background-color: #282726;
+    text-align: center;
+  
+   
+}
+.font
+{
+    font-family: 'Damion', cursive;
+    font-size: 56px;
+}
+.fontfa
+{
+    font-family:'Times New Roman', serif ;
+    font-size: 62px;
+    color: #c79c60;
+}
+.gray
+{
+    color: #949494;
+}
+.best
+{
+    color: #c79c60;
+    font-family:'Damion', cursive ;
+}
+.btn
+{
+    background-color: #c79c60;
+}
+.br
+{
+    border: 5px solid white;
+}
+.bg
+{
+    background-color: #c79c60;
+
+}
+.card-title
+{
+    font-family:'Damion', cursive ;
+    text-align: center;
+    font-size:30px;
+    font-weight: 700;
+    color: gray;
+
+}
+
+.img
+{
+    border: 8px solid white;
+}
+.cap
+{
+    position: relative;
+    top:-130px;
+    left:0px;
+ 
+    padding: 20px;
+    margin: 8px;
+}
+
+.color span 
+{
+    color: #c79c60;
+    font-size: 18px;
+    font-weight: 600;
+}
+.black
+{
+    background-color: #302f2f;
+}
+.text
+{
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.text:hover
+{
+    color: #c79c60;
+}
